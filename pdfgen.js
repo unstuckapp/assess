@@ -19,7 +19,7 @@
                   alignment: "left"
                 },
                 {
-                  text: isAverages ? "Average " : "Your " + "response: " + val + " / 10",
+                  text: (isAverages ? "Average " : "Your ") + "response: " + roundedVal + " / 10",
                   alignment: "right"
                 }
               ]
