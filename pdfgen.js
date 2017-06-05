@@ -1,6 +1,8 @@
 
       window.createResultsPDF = function(phaseNumber, averageResponse, opinionQuestions, isAverages, callback){
 
+        opinionQuestions = opinionQuestions.sort((a, b) => a.id - b.id)
+
         var columns = averageResponse.surveyData.questions.map((x,i) =>
           {
             var val = x.value;
