@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.dea11aab.css",
   "main.css.map": "static/css/main.dea11aab.css.map",
-  "main.js": "static/js/main.17baf45d.js",
-  "main.js.map": "static/js/main.17baf45d.js.map",
+  "main.js": "static/js/main.16eddf4a.js",
+  "main.js.map": "static/js/main.16eddf4a.js.map",
   "static/media/assess-bkg-01.png": "static/media/assess-bkg-01.86d4aaea.png",
   "static/media/assess-bkg-02.png": "static/media/assess-bkg-02.32a6872a.png",
   "static/media/assess-bkg-03.png": "static/media/assess-bkg-03.22421d60.png",
@@ -17,5 +17,5 @@
   "static/media/leader-assess.png": "static/media/leader-assess.2e2c860f.png",
   "static/media/logo.svg": "static/media/logo.e832170d.svg",
   "static/media/member-assess.png": "static/media/member-assess.01ee444c.png",
-  "static/media/unstuck-group-logo.png": "static/media/unstuck-group-logo.3b8d7cc2.png"
+  "static/media/unstuck-group-logo-large.png": "static/media/unstuck-group-logo-large.a88a6c3a.png"
 }
