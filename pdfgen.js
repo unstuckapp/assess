@@ -10,6 +10,7 @@ window.createResultsPDF = function(
   var columns = averageResponse.surveyData.questions
     .filter((x, i) => opinionQuestions[i])
     .map((x, i) => {
+      console.log(opinionQuestions[i])
       var val = x.value;
 
       var roundedVal = Math.round(val * 10) / 10;
